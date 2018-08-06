@@ -1,7 +1,6 @@
-; Greg Barkans
-; SE 2XA3 Final Project
-; McMaster Universty
-; Departments: Computing and Software, Engineering
+; <Vapurrmaid>
+; SE 2XA3 Final Project SO DON'T YOU DARE COPY ME
+; McCRAPSTER U
 ; Sources
 	;General Information:
 	;www.eecg.toronto.edu/~amza/www.mindsec.com/files/x86regs.html
